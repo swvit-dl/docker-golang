@@ -1,0 +1,4 @@
+*.sublime-project
+*.sublime-workspace
+go1.2.linux-amd64.tar.gz
+go
