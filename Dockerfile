@@ -13,8 +13,6 @@ ENV PATH  /usr/local/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/b
 ENV GOPATH  /go
 ENV GOROOT  /usr/local/go
 
-RUN mkdir -p /opt/go && cd /opt/go
-
 CMD ["/bin/bash"]
 
 
